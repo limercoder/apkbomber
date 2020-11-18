@@ -4,6 +4,6 @@
 
 apt install git python && git clone https://github.com/limercoder/apkbomber
 && cd apkbomber
-&&python copy.py
+&& python copy.py
 
 можете копировать
